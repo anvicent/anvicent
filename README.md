@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👩🏻‍💻 Olá, sou Ana Vicente
 
-<!--
-**anvicent/anvicent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Engenheira de petróleo e pós-graduanda em ciência de dados`**
 
-Here are some ideas to get you started:
+🚀 Meu objetivo é unir **análise de dados e engenharia** para promover **redução de falhas, otimização de processos e mitigação de riscos ambientais**, contribuindo para a eficiência e inovação no setor energético.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌍 Áreas de Interesse
+- Dados aplicada à Engenharia de Petróleo e Energias Renováveis  
+- Predição de falhas e manutenção preditiva  
+- Otimização de produção e análise de eficiência energética  
+  
+
+---
+
+### 🛠️ Tecnologias e Ferramentas em aprendizado
+- **Linguagens:** Python 
+- **Visualização:** Power BI 
+- **Análise e Dados:** Excel, SQL  
+
+
+---
+
+### 📈 Objetivo Profissional
+> “Quero transformar dados em decisões que aumentem a eficiência operacional, reduzam falhas e contribuam para uma transição energética mais segura e sustentável.”
+
+---
+
+
